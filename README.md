@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mostafa El Kaddaoui, a full-stack developer and engineering student in the GLSID program at ENSET Mohammedia. With five years of experience, I have worked on diverse projects in web and mobile development, artificial intelligence, and security. I am the founder of Face-Geometry-Calculs, a library for facial movement detection, Almora9ib, an AI-powered academic monitoring solution, E9raa, a voice-controlled accessibility tool, and ChatN7, a chatbot utilizing Retrieval-Augmented Generation, among others. Passionate about innovation, I continuously explore new technologies to build efficient and impactful solutions.
+I am Mostafa El Kaddaoui, a full-stack developer and engineering student in the GLSID program at ENSET Mohammedia. With six years of experience, I have worked on diverse projects in web and mobile development, artificial intelligence, and security. I am the founder of Face-Geometry-Calculs, a library for facial movement detection, Almora9ib, an AI-powered academic monitoring solution, E9raa, a voice-controlled accessibility tool, and ChatN7, a chatbot utilizing Retrieval-Augmented Generation, among others. Passionate about innovation, I continuously explore new technologies to build efficient and impactful solutions.
 
 
 ## 🌐 Socials:
